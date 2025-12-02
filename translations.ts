@@ -19,7 +19,7 @@ export const translations = {
     // Landing
     startTrial: "Start 7-Day Free Trial",
     login: "Login",
-    heroTitle: "Generic AI content is killing your business.",
+    heroTitle: "Generic AI content is killing your business...",
     heroSub: "Authos 10x's your content production by encoding your unique stories and beliefs into every piece. Escape the 'slop' era and generate authentic content that builds trust.",
 
     // Value Chain
@@ -689,7 +689,7 @@ export const translations = {
     personaGoalsDesc: "O que essa pessoa realmente quer na vida? O que ela está tentando alcançar, consertar ou criar para si mesma? Isso pode ser pessoal, emocional, profissional, físico ou financeiro. Exemplos: sentir-se mais confiante, ganhar R$10k/mês, perder 15kg, tornar-se um palestrante conhecido, ser promovido, lançar um negócio paralelo.",
     
     personaBehaviors: "Comportamentos Comuns",
-    personaBehaviorsDesc: "Quais são alguns hábitos ou padrões que essa pessoa tende a repetir? Quais ações ela toma (ou evita) com frequência? Isso ajuda a IA a entender como ela pensa e se comporta. Exemplos: consome conteúdo constantemente sem agir, sempre procurando o próximo hack de produtividade, começa cursos mas nunca termina, reclama de tempo ou dinheiro.",
+    personaBehaviorsDesc: "Quais são alguns hábitos ou padrões que essa pessoa tende a repetir? Quais ações ela toma (or evita) com frequência? Isso ajuda a IA a entender como ela pensa e se comporta. Exemplos: consome conteúdo constantemente sem agir, sempre procurando o próximo hack de produtividade, começa cursos mas nunca termina, reclama de tempo ou dinheiro.",
     
     generatePersona: "Gerar Relatório de Persona",
     generatingPersona: "Analisando...",
