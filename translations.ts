@@ -19,7 +19,7 @@ export const translations = {
     // Landing
     startTrial: "Start 7-Day Free Trial",
     login: "Login",
-    heroTitle: "Generic AI content is killing your business...",
+    heroTitle: "Generic AI content is killing your business.",
     heroSub: "Authos 10x's your content production by encoding your unique stories and beliefs into every piece. Escape the 'slop' era and generate authentic content that builds trust.",
 
     // Value Chain
